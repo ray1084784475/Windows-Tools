@@ -5,7 +5,7 @@
 <a id="cn"></a>
 ## 简体中文
 <div align="center">
-	<img src="./image/ico.png" width=50 high=50>
+	<img src="/image/ico.png" width=50 high=50>
 	<h3>Windows实用工具集</h3>
 	<img src="https://img.shields.io/badge/python-3.8%2B-blue">
 	<img src="https://img.shields.io/badge/platform-Windows-lightgrey">
@@ -22,18 +22,27 @@ Windows实用工具集是一款专为 Windows 系统设计的实用工具集合�
 
 #### -窗口置顶
 让任何窗口保持在最前面，方便参考文档、查看攻略或对比内容。
-<img src="./image/1.gif">
+
+<div>
+	<img src="/image/1.gif">
+</div>
 
 #### -窗口半透明
 将当前窗口设置为半透明，轻松查看下方窗口内容，无需切换窗口。
-<img src="./image/2.gif">
+
+<img src="/image/2.gif">
+
 <span style="color:green">更多玩法</span>：点击任务栏后按下快捷键即可实现任务栏透明。
-<img src="./image/4.gif">
+
+<img src="/image/4.gif">
 
 #### -划词搜索（<span style="color:blue;"><b>不完善，目前仅支持Windows自带应用</b></span>）
 选中文本后一键搜索，支持自定义搜索引擎。
+
 <span style="color:red"><b>默认快捷键会与记事本另存为快捷键相冲突，请更改。</b></span>
-<img src="./image/3.gif">
+
+<img src="/image/3.gif">
+
 #### -音量控制（<span style="color:red;"><b>不完善，不推荐使用</b></span>）
 通过快捷键快速调节系统音量，特别适合台式机用户。
 ### 安装与使用
@@ -98,14 +107,16 @@ A: 某些应用程序使用自定义的文本控件，可能无法通过标准�
 
 ### 捐赠
 
-<img width=100 high=50 src="./image/Alipay.jpg">
-<img width=150 high=150 src="./image/Alipay-Qrcode.jpg">
+<img width=100 high=50 src="/image/Alipay.jpg">
+
+<img width=150 high=150 src="/image/Alipay-Qrcode.jpg">
 
 -
 
 
-<img width=100 high=50 src="./image/Wechat-Payment.jpg">
-<img width=150 high=150 src="./image/Wechat-Payment-Qrcode.jpg">
+<img width=100 high=50 src="/image/Wechat-Payment.jpg">
+
+<img width=150 high=150 src="/image/Wechat-Payment-Qrcode.jpg">
 -
 
 ### 注意: 本软件是开源项目，仅供学习和交流使用。使用者应对自己的行为负责
@@ -114,12 +125,13 @@ A: 某些应用程序使用自定义的文本控件，可能无法通过标准�
 - 
 
 <a id="en"></a>
+
 ## English
 
 Here's a non-human translation.Please contact `1084784475@qq.com` or `ray_eay@foxmail.com` if you have any errors or want to translate:
 
 <div align="center">
-	<img src="./image/ico.png" width=50 high=50>
+	<img src="/image/ico.png" width=50 high=50>
 	<h3>Windows Tools</h3>
 	<img src="https://img.shields.io/badge/python-3.8%2B-blue">
 	<img src="https://img.shields.io/badge/platform-Windows-lightgrey">
@@ -133,17 +145,18 @@ Windows Tools is a utility suite specifically designed for Windows systems, aime
 ### Features
 #### -Window On Top
 Keep any window always on top for easy reference when viewing documents, guides, or comparing content.
-<img src="./image/1.gif">
+
+<img src="/image/1.gif">
 
 #### -Window Transparency
 Set active windows to semi-transparent mode, allowing you to see underlying windows without switching applications.
-<img src="./image/2.gif">
+<img src="/image/2.gif">
 <span style="color:green">More gameplay</span> : Click the taskbar and press the shortcut key to make the taskbar transparent.
-<img src="./image/4.gif">
+<img src="/image/4.gif">
 #### -Word Search (<span style="color:blue;"><b>Limited: Currently only Windows native applications are supported</b></span>)
 Search selected text instantly with your preferred search engine.
 <span style="color:red"><b>The default shortcut will conflict with the save Notepad as shortcut. Please change it. </b></span>
-<img src="./image/3.gif">
+<img src="/image/3.gif">
 #### -Volume Control (<span style="color:red;"><b>Experimental: Not recommended</b></span>)
 Adjust system volume rapidly using hotkeys - especially useful for desktop users.
 
@@ -201,15 +214,15 @@ For assistance or suggestions:
 
 #### Alipay
 
-<img width=100 high=50 src="./image/Alipay.jpg">
-<img width=150 high=150 src="./image/Alipay-Qrcode.jpg">
+<img width=100 high=50 src="/image/Alipay.jpg">
+<img width=150 high=150 src="/image/Alipay-Qrcode.jpg">
 
 -
 
 #### Wechat Payment
 
-<img width=100 high=50 src="./image/Wechat-Payment.jpg">
-<img width=150 high=150 src="./image/Wechat-Payment-Qrcode.jpg">
+<img width=100 high=50 src="/image/Wechat-Payment.jpg">
+<img width=150 high=150 src="/image/Wechat-Payment-Qrcode.jpg">
 
 -
 
