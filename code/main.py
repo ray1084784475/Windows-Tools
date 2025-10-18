@@ -270,7 +270,7 @@ class AboutDialog(QDialog):
         info_label = QLabel("Windows实用工具集\n\n v1.0\n\n"
                            "功能:\n"
                            "1. 窗口置顶\n  （选中窗口后按下快捷键）\n"
-                           "2. 窗口半透明\n  （选中窗口后按下快捷键,如果未在退出前取消半透明，关闭半透明的窗口重开即可恢复正常）\n"
+                           "2. 窗口半透明\n  （选中窗口后按下快捷键，如果未在退出前取消半透明，关闭半透明的窗口重开即可恢复正常）\n"
                            "3. 音量控制\n"
                            "4. 划词搜索\n  （支持不完善，只支持少量应用）\n\n"
                            "作者: Ray"
@@ -604,4 +604,5 @@ if __name__ == "__main__":
     utility_tool = WindowsUtilityTool()
     
     # 运行应用程序
+
     sys.exit(app.exec_())
