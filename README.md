@@ -1,6 +1,7 @@
 # Windows实用工具集 | Windows Tools
 
-**简体中文** | **English** Please scroll down
+**[简体中文](#简体中文)** | **[English](#English)** Please scroll down
+
 
 <a id="cn"></a>
 ## 简体中文
