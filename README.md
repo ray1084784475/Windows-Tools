@@ -111,18 +111,7 @@ A: 某些应用程序使用自定义的文本控件，可能无法通过标准�
 
 · 发送邮件至: `1084784475@qq.com`或`ray_eay@foxmail.com`
 
-### 捐赠
 
-<img width=100 high=50 src="image/Alipay.jpg">
-
-<img width=150 high=150 src="/image/Alipay-Qrcode.jpg">
-
----
-
-
-<img width=100 high=50 src="/image/Wechat-Payment.jpg">
-
-<img width=150 high=150 src="/image/Wechat-Payment-Qrcode.jpg">
 
 ---
 
@@ -232,19 +221,6 @@ For assistance or suggestions:
 · Open a GitHub Issue  
 · Email: `1084784475@qq.com` or `ray_eay@foxmail.com`
 
-### Donation
-
-#### Alipay
-
-<img width=100 high=50 src="/image/Alipay.jpg">
-<img width=150 high=150 src="/image/Alipay-Qrcode.jpg">
-
----
-
-#### Wechat Payment
-
-<img width=100 high=50 src="/image/Wechat-Payment.jpg">
-<img width=150 high=150 src="/image/Wechat-Payment-Qrcode.jpg">
 
 ---
 
